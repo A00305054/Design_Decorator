@@ -1,0 +1,14 @@
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\obj\Debug\net8.0\Design_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\obj\Debug\net8.0\Design_Decorator.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\obj\Debug\net8.0\Design_Decorator.AssemblyInfo.cs
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\obj\Debug\net8.0\Design_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\bin\Debug\net8.0\Design_Decorator.exe
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\bin\Debug\net8.0\Design_Decorator.deps.json
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\bin\Debug\net8.0\Design_Decorator.runtimeconfig.json
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\bin\Debug\net8.0\Design_Decorator.dll
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\bin\Debug\net8.0\Design_Decorator.pdb
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\obj\Debug\net8.0\Design_Decorator.dll
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\obj\Debug\net8.0\refint\Design_Decorator.dll
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\obj\Debug\net8.0\Design_Decorator.pdb
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\obj\Debug\net8.0\Design_Decorator.genruntimeconfig.cache
+C:\Users\ankit\source\repos\Design_Decorator\Design_Decorator\obj\Debug\net8.0\ref\Design_Decorator.dll
